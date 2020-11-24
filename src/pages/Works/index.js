@@ -23,9 +23,9 @@ const Works = () => {
             </Title>
             <WorksMenu
                 items={[
-                    'Java',
+                    'java',
                     'angular',
-                    'Laravel'
+                    'laravel'
                 ]}
                 selected={selectedType}
                 clicked={handleMenuChange}
